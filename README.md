@@ -37,8 +37,5 @@ Cybersecurity is the practice of protecting the **confidentiality, integrity, an
 
 ---
 
-## 🖼️ Proof of Completion
-![Module 1 Challenge 100%](../certificates/Module1_Challenge_Completion.png)
-
 ---
 > *Every alert tells a story. Every configuration protects someone’s data.*
