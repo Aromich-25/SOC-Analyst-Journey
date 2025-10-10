@@ -74,8 +74,8 @@ Future updates will include:
 
 If you’re also pursuing cybersecurity or building SOC projects, feel free to connect and collaborate!
 
-**GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
-**LinkedIn:** *Add your link here once ready*  
-**YouTube (Faithful Cyber):** *Add your channel link here*
+**GitHub:** [https://github.com/Aromich-25)  
+**LinkedIn:**https://www.linkedin.com/in/aron-michaels/ *  
+**YouTube (Faithful Cyber):** *https://www.youtube.com/@FaithfulCyber*
 
 > *Every click, connection, and configuration matters.*
